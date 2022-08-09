@@ -1,0 +1,24 @@
+.student-class-post-container {
+  margin-top: 50px;
+}
+.student-class-post-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.student-class-post-title {
+  margin-bottom: 20px;
+  padding: 20px 20px 20px 40px;
+  box-sizing: border-box;
+}
+.class-items-header {
+  background-image: url(https://gstatic.com/classroom/themes/img_backtoschool.jpg);
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+.student-class-post-items {
+  padding: 5px 5px 5px 5px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}

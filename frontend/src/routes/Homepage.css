@@ -1,0 +1,26 @@
+.main-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.main-heading {
+  margin-top: 13%;
+  text-align: left;
+  color: #212023;
+  font-size: 37px;
+  font-weight: bold;
+}
+.main-content {
+  margin-top: 5%;
+  text-align: left;
+  font-size: 17px;
+}
+.main-footer {
+  margin-top: 5%;
+}
+
+.main-img {
+  margin-top: 15%;
+  margin-left: 5%;
+  width: 95%;
+  height: 80%;
+}

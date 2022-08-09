@@ -1,0 +1,37 @@
+.assistant-classes-title {
+    margin: 30px 0 20px 0;
+}
+.assistant-classes-content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.assistant-classes-items {
+    width: 25rem;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+.assistant-classes-items:hover {
+    color: black;
+    box-shadow: 2px;
+    border: 2px solid #000000;
+}
+.assitant-classes-link {
+    background-color: black;
+}
+.classes-background {
+    background-image: url(https://gstatic.com/classroom/themes/Physics.jpg);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.classes-items {
+    color: white;
+}
+.action-class-button {
+    float: right;
+}
+.add-class-button {
+    float: right;
+}
