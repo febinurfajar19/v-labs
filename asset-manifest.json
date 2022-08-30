@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/v-labs/static/css/main.575d6867.css",
+    "main.js": "/v-labs/static/js/main.da4a1b4b.js",
+    "static/js/787.a2bf511c.chunk.js": "/v-labs/static/js/787.a2bf511c.chunk.js",
+    "static/media/Login.jpg": "/v-labs/static/media/Login.682f79e4bfc76926b4f4.jpg",
+    "static/media/Register.jpg": "/v-labs/static/media/Register.e07d3481f62943cae220.jpg",
+    "static/media/Student-work.png": "/v-labs/static/media/Student-work.902ef56a575901103948.png",
+    "static/media/logo.png": "/v-labs/static/media/logo.28801153308f091421d0.png",
+    "index.html": "/v-labs/index.html",
+    "main.575d6867.css.map": "/v-labs/static/css/main.575d6867.css.map",
+    "main.da4a1b4b.js.map": "/v-labs/static/js/main.da4a1b4b.js.map",
+    "787.a2bf511c.chunk.js.map": "/v-labs/static/js/787.a2bf511c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.575d6867.css",
+    "static/js/main.da4a1b4b.js"
+  ]
+}
