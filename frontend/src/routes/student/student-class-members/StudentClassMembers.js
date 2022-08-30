@@ -17,9 +17,9 @@ const StudentClassMembers = () => {
     { id: 6, nama: "Laksmini" },
     { id: 7, nama: "Ario" },
     { id: 8, nama: "Ida" },
-    { id: 9, nama: "Zuhairi" },
+    { id: 9, nama: "Tio" },
     { id: 10, nama: "Lala" },
-    { id: 11, nama: "Weni" },
+    { id: 11, nama: "Wawan" },
   ];
 
   const [member, setMember] = useState(USERS);
@@ -68,7 +68,10 @@ const StudentClassMembers = () => {
           </Row>
           {member && member.length > 0 ? (
             member.map((member) => (
-              <Card key={member.id} className="student-class-members-items shadow-sm">
+              <Card
+                key={member.id}
+                className="student-class-members-items shadow-sm"
+              >
                 <ListGroup variant="flush">
                   <ListGroup.Item>
                     <Row>
